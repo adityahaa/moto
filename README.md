@@ -1,5 +1,8 @@
 # Moto - Mock AWS Services
 
+> This repository is Aditya Hambire’s fork of [getmoto/moto](https://github.com/getmoto/moto). Upstream authorship and licensing apply. See the [fork guide](docs/FORK_GUIDE.md) for architecture, local use and the scope of this review.
+
+
 [![Join the chat at https://gitter.im/awsmoto/Lobby](https://badges.gitter.im/awsmoto/Lobby.svg)](https://gitter.im/awsmoto/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://github.com/getmoto/moto/workflows/TestNDeploy/badge.svg)](https://github.com/getmoto/moto/actions)
